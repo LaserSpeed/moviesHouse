@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+div.wrapper {
+    padding: 2rem;
+    background-color: white;
+    box-shadow: 0 0 2px 3px lightgray;
+    margin-bottom: .8rem;
+}

@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+div.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+}
+
+button {
+    padding: 2rem;
+    background-color: rgb(45, 49, 49);
+    color: white;
+    font-size: 4rem;
+}
+
+h1 {
+    padding: 2rem;
+    font-size: 4rem;
+}
+h2 {
+    text-align: center;
+}
